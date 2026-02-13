@@ -1,8 +1,8 @@
 class Arthema < Formula
   desc "A fast, lightweight, and futuristic Cyberpunk-themed API IDE"
   homepage "https://github.com/Danjavia/arthema"
-  url "https://github.com/Danjavia/arthema/archive/refs/tags/v0.1.9.tar.gz"
-  sha256 "ae941098c7f615890a4334e3fca2f9e1re48912f2c9e48acb58b3ac498c9ef270"
+  url "https://github.com/Danjavia/arthema/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "bef3bbbd443ce98eee3fcde818591e11e10a719dd033f2e18e219e5fbff35953"
   license "MIT"
 
   depends_on "rust" => :build
