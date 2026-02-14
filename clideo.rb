@@ -1,4 +1,4 @@
-class Arthema < Formula
+class Clideo < Formula
   desc "A fast, lightweight, and futuristic Cyberpunk-themed API IDE"
   homepage "https://github.com/arthema/arthema"
   url "https://github.com/arthema/arthema/archive/refs/tags/v0.2.9.tar.gz"
